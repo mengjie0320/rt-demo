@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          push触发5
+          push触发6
         </a>
       </header>
     </div>
